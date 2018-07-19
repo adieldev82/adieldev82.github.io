@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.andriel.mysecondinstantapp",
+    "sha256_cert_fingerprints":
+    ["48:7E:F8:C9:D8:44:D8:D9:B6:59:A0:90:22:11:C5:3A:D7:15:7D:83:23:07:3D:BE:B0:2E:BB:72:86:5B:78:40"]
+  }
+}]
